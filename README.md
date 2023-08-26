@@ -17,4 +17,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mudayaraj&show_icons=true&locale=en" alt="mudayaraj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudayaraj&" alt="mudayaraj" /></p>
